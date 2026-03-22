@@ -1,3 +1,3 @@
-# Discrete_Math
+# Dmath
 Discrete Mathematics
 I edited
